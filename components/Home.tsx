@@ -94,7 +94,7 @@ const Home: React.FC = () => {
                 className="relative z-10 w-full h-full rounded-[4rem] overflow-hidden shadow-2xl bg-slate-100 -rotate-3 border-4 border-white"
               >
                 <img 
-                  src="public/Images/Anne.png"
+                  src="/Images/Anne.png"
                   alt="Anne Nana" 
                   className="w-full h-full object-cover transition-transform duration-700 grayscale hover:grayscale-110"
                 />

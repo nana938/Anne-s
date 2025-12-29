@@ -25,7 +25,7 @@ const AboutSection: React.FC = () => {
                 className="relative z-10 w-full aspect-[4/5] rounded-[4rem] overflow-hidden shadow-2xl rotate-2 border-8 border-white cursor-pointer"
               >
               <img
-                src="public/Images/Anne.png"
+                src="/Images/Anne.png"
                 alt="Anne Nana"
                 fill
                 priority
